@@ -1,0 +1,20 @@
+Documentation:
+  Enabled: false
+Style/RedundantReturn:
+  AllowMultipleReturnValues: true
+Metrics/LineLength:
+  Max: 100
+GlobalVars:
+  Enabled: false
+WordArray:
+  Enabled: false
+CyclomaticComplexity:
+  Max: 20
+PerceivedComplexity:
+  Max: 20
+MethodLength:
+  Max: 30
+AbcSize:
+  Enabled: false
+ClassLength:
+  Enabled: false
